@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "caseStudies": "Case Studies",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Transform Your",
+    "subtitle": "Conversion Rates",
+    "description": "Data-driven CRO strategies that turn visitors into customers. Boost your conversion rates with proven methodologies and continuous optimization.",
+    "cta": {
+      "audit": "Get Free Audit",
+      "caseStudies": "View Case Studies"
+    }
+  },
+  "stats": {
+    "conversionIncrease": "Average Conversion Increase",
+    "clientsServed": "Clients Served",
+    "revenueGenerated": "Revenue Generated",
+    "testsRun": "A/B Tests Run"
+  }
+}
